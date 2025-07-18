@@ -1,0 +1,14 @@
+pandas         
+mlflow          
+notebook      
+numpy         
+scikit-learn    
+matplotlib      
+python-box      # Access dicts with dot notation (config handling)
+pyYAML          # Read/write YAML config files
+tqdm            # Progress bars for loops
+ensure          # Runtime type and value checks
+joblib          # Model saving/loading and parallel execution
+types-PyYAML    # Type hints for pyYAML (static analysis support)
+Flask           
+Flask-Cors      # Enables CORS in Flask (cross-origin access)
